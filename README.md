@@ -1,5 +1,5 @@
 # MLBOX
-MLBox : a fully automated pipeline.
+MLBox is a powerful Automated Machine Learning python library.
 
 # Features:
 * Fast reading and distributed data preprocessing/cleaning/formatting.
